@@ -71,7 +71,7 @@ class _NativeCodeScreenState extends State<NativeCodeScreen> {
               onPressed: getBatteryLevel,
             ),
             const SizedBox(height: 10,),
-            Text(batteryLevel),
+            Text(batteryLevel),//fffff
           ],
         ),
       ),
